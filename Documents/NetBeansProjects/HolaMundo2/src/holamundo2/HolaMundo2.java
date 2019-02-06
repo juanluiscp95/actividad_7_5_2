@@ -18,6 +18,7 @@ public class HolaMundo2 {
         // TODO code application logic here
         System.out.println("hola, mi nombre es HolaMundo2");
         System.out.println("mi equipo favorito es el Elche CF");
-    }
-    
+        System.out.println("RAFA NADAL");
+        System.out.println("FELICIANO LOPEZ");
+    } 
 }
