@@ -16,7 +16,7 @@ public class Banco2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hola mi nombre es banco2");
+        System.out.println("Hola, mi nombre es banco2");
     }
     
 }
