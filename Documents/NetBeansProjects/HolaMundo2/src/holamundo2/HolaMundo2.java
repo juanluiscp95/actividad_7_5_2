@@ -20,5 +20,8 @@ public class HolaMundo2 {
         System.out.println("mi equipo favorito es el Elche CF");
         System.out.println("RAFA NADAL");
         System.out.println("FELICIANO LOPEZ");
+        System.out.println();
+        System.out.println("ROGER FEDERER");
+        System.out.println("STAN WAWRINKA");
     } 
 }
