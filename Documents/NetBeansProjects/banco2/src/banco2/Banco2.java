@@ -18,5 +18,5 @@ public class Banco2 {
         // TODO code application logic here
         System.out.println("Hola, mi nombre es banco2");
     }
-    
+
 }
